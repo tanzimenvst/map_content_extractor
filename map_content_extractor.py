@@ -5,7 +5,6 @@ import numpy as np
 import rasterio
 from rasterio.features import shapes
 import fiona
-import matplotlib.pyplot as plt
 from shapely.geometry import box, shape, mapping, Polygon, JOIN_STYLE
 
 
