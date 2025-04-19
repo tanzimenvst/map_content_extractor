@@ -1,6 +1,7 @@
 # 🗺️ Map Content Extractor
 
 This repository provides a Python based tool to extract only the **core map content** from large cartographic raster images (e.g., GeoTIFFs), eliminating surrounding non-essential elements such as legends, scale bars, titles, and decorative margins.
+
 This is particularly useful for scanned maps, atlases, or historical datasets where the actual map area needs to be isolated for further GIS analysis.
 
 ---
