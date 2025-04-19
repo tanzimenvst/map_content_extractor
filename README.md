@@ -27,9 +27,9 @@ This is particularly useful for scanned maps, atlases, or historical datasets wh
 🎯 Detects specific colored regions (e.g., white/nodata) using pixel value analysis  
 🗺️ Automatically identifies and retains the largest valid map area  
 🧼 Applies geometric operations:
-    - `Erase` 
-    - `Buffer`  
-    - `Shape simplification`
+  - `Erase` 
+  - `Buffer`  
+  - `Shape simplification`
 
 ✂️ Clips the raster using the extracted polygon  
 🎨 Re-applies the original colormap to the final output
