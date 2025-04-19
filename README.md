@@ -11,15 +11,6 @@ This is particularly useful for scanned maps, atlases, or historical datasets wh
   <img src="assets/Demo.jpg" alt="Demo"/>
 </p>
 
-1.  **Input**: A scanned or cartographic raster with map + surrounding elements  
-2.  **Processing**:
-        - Identify specific colored (white/nodata) regions from the image using pixel value analysis.
-        - Creates polygon to extract only the area of interest, excluding all non-essential regions.:
-            - Erase
-            - Buffer
-            - Polygon-to-line and line simplification
-4.  **Clip**: Extract only the main map area  
-5.  **Result**: Clean, analysis-ready raster with original colormap
 
 ---
 
