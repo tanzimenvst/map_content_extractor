@@ -29,7 +29,8 @@ This is particularly useful for scanned maps, atlases, or historical datasets wh
 🧼 Applies geometric operations:
   - `Erase` 
   - `Buffer`  
-  - `Shape simplification` 
+  - `Shape simplification`
+
 ✂️ Clips the raster using the extracted polygon  
 🎨 Re-applies the original colormap to the final output
 
